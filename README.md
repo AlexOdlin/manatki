@@ -27,6 +27,3 @@ import {Option, Some, None} from 'manatki';
 3. Try[T]
 4. implicit constructors of Option and Either
 
-## License
-
-MIT
